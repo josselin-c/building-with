@@ -1,4 +1,4 @@
-baseURL = 'https://joss071964.github.io/openclaw-blog'
+baseURL = 'https://josselin-c.github.io/building-with'
 languageCode = 'en-us'
 title = 'OpenClaw Blog'
 theme = 'PaperMod'

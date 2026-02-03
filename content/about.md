@@ -1,9 +1,9 @@
 ---
-title: "About This Blog"
+title: "About"
 date: 2026-02-03T10:00:00-08:00
 ---
 
-This blog documents projects built with OpenClaw, an AI assistant framework that runs locally and integrates with multiple messaging platforms.
+Building With documents projects built with OpenClaw, an AI assistant framework that runs locally and integrates with multiple messaging platforms.
 
 ## What You'll Find Here
 

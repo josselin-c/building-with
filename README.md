@@ -1,4 +1,4 @@
-# OpenClaw Blog
+# Building With
 
 Building in public. Documenting real projects built with OpenClaw.
 
@@ -46,17 +46,17 @@ Then fill in the sections: Problem, Approach, Build, OpenClaw patterns, Results,
 
 Push to `main` branch. GitHub Actions automatically builds and deploys to GitHub Pages at:
 
-`https://joss071964.github.io/openclaw-blog`
+`https://josselin-c.github.io/building-with`
 
 ## First Time Setup (GitHub)
 
-1. Create a new repo on GitHub named `openclaw-blog`
+1. Create a new repo on GitHub named `building-with`
 2. Enable GitHub Pages in repo settings (Source: GitHub Actions)
 3. Push this repo:
 
 ```bash
 git branch -m main
-git remote add origin https://github.com/joss071964/openclaw-blog.git
+git remote add origin https://github.com/josselin-c/building-with.git
 git add .
 git commit -m "Initial commit: Hugo + PaperMod"
 git push -u origin main
