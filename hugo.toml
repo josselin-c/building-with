@@ -1,0 +1,39 @@
+baseURL = 'https://joss071964.github.io/openclaw-blog'
+languageCode = 'en-us'
+title = 'OpenClaw Blog'
+theme = 'PaperMod'
+
+[params]
+  author = 'Josselin'
+  description = 'Building in public with OpenClaw'
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+
+[params.homeInfoParams]
+  Title = 'OpenClaw Blog'
+  Content = 'Real projects, real process, real results. Documenting how we build with OpenClaw.'
+
+[[params.socialIcons]]
+  name = 'github'
+  url = 'https://github.com/joss071964'
+
+[[menu.main]]
+  identifier = 'home'
+  name = 'Home'
+  url = '/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'projects'
+  name = 'Projects'
+  url = '/projects/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 30
