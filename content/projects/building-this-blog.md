@@ -1,6 +1,6 @@
 ---
 title: "Building a Static Blog with Hugo, GitHub Pages, and a Persistent SSH Key Problem"
-date: 2026-02-03T21:00:00-08:00
+date: 2026-02-03T10:00:00-08:00
 draft: false
 tags: ["hugo", "github-pages", "infrastructure", "openclaw"]
 ---
